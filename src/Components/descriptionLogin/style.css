@@ -1,0 +1,25 @@
+.container-descriptionLogin{
+}
+
+
+.title-descriptionLogin{
+    font-size: 3.125rem;
+    font-weight: 600;
+}
+
+.subtitle-descriptionLogin{
+    font-size: 2.188rem;
+    font-weight: 400;
+}
+
+.title-countLogin{
+    font-size: 1rem;
+}
+
+.registerLogin{
+    font-size: 1rem;
+}
+
+.registerHere{
+    color: #4D47C3;
+}

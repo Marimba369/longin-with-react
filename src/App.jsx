@@ -7,10 +7,10 @@ import MediaSocial from './Components/mediaSocial'
 function App() {
 
   return (
-  <div>
+  <div className="container-app">
     <DescriptionLogin />
     <Form />
-    <MediaSocial />
+    
   </div>
   )
 }

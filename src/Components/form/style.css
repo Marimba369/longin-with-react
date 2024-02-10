@@ -1,0 +1,64 @@
+.form-email{
+    width: 23.063rem;
+    height: 3.875rem;
+    background-color: #F0EFFF;
+    color: #A7A3FF;
+    border: none;
+    border-radius: 8px;
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 0.938rem;
+}
+
+.form-password{
+    width: 23.063rem;
+    height: 3.875rem;
+    background-color: #F0EFFF;
+    color: #A7A3FF;
+    border: none;
+    border-radius: 8px;
+    padding: 20px; 
+    font-size: 0.938rem;
+}   
+
+.form-submit{
+    width: 23.063rem;
+    height: 3.688rem;
+    border: none;
+    background-color: #4D47C3;
+    color: white;
+    border-radius: 8px;
+    box-shadow: rgba(228, 5, 217, 0.2) 0px 7px 29px 0px; 
+}
+
+.form-sign{
+    font-size: 1.875rem;
+    font-weight: 400;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.form-iconPassword{
+    width: 1.063rem;
+    height: 1.063rem;
+    position: relative;
+    right: 40px;
+    top: 5px;
+}
+
+.form-text{
+    color: #B0B0B0;
+    font-size: 0.813rem;
+    text-align: right;
+    padding: 1rem;
+}
+
+
+.form-word{
+    color: #B5B5B5;
+    text-align: center;
+}

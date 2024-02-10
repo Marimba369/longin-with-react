@@ -3,11 +3,11 @@ import './style.css'
 
 export default function DescriptionLogin(){
     return (
-        <div>
-            <h1> Sign in to</h1>
-            <h2>Lorem Ipsum is simply</h2>
-            <h3>if you don't have an account register </h3>
-            <span >You can <span style={{color: 'blue'}}>Register here!</span></span>
+        <div className = "container-descriptionLogin">
+            <h1 className = "title-descriptionLogin"> Sign in to</h1>
+            <h2 className= "subtitle-descriptionLogin">Lorem Ipsum is simply</h2>
+            <p className= "title-countLogin">if you don't have an account register </p>
+            <span className= 'registerLogin'>You can <a href='#' className='registerHere'>Register here!</a></span>
        </div>
     )
-}
+} 
